@@ -6,26 +6,6 @@ body {
     margin: 20px;
 }
 
-/* Happiness Bar Styles */
-.happiness-bar {
-    display: inline-block;
-    width: 100%;
-    max-width: 300px;
-    height: 30px;
-    background-color: #fff9bc;
-    border-radius: 15px;
-    margin: 20px auto;
-    overflow: hidden;
-}
-
-.happiness-fill {
-    height: 100%;
-    width: 10%;
-    background-color: #fec5ce;
-    border-radius: 15px 0 0 15px;
-    transition: width 0.5s;
-}
-
 /* Button Styles */
 .button {
     display: inline-block;
@@ -41,12 +21,12 @@ body {
 }
 
 .button:hover {
-    background-color: #ffaa00;
+    background-color: #cf967a;
 }
 
 /* Image Styles */
 #pompom-image {
-    width: 200px;
+    width: 300px;
 }
 
 /* Centering the image */
